@@ -1,17 +1,20 @@
-# <div align="center">👋 Hey there, I'm Ahson Riaz</div>
+# <div align="center">👋 Hey, I'm Muhammad Ahson Riaz</div>
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=600&lines=Data+Engineer;Machine+Learning+Enthusiast;Systems+Programmer;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=700&lines=Data+Engineer+%40+Kaizen+Financial;AWS+%7C+Spark+%7C+Python+Expert;Building+Scalable+Data+Pipelines;Top+1%25+MS+Business+Analytics+Graduate)](https://git.io/typing-svg)
+
+**Currently:** Scaling financial data infrastructure at **Kaizen Financial Reporting**  
+**Previously:** Built ML trading systems | Architected multi-million dollar data pipelines
 
 </div>
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammadahsonriaz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Ahson.riaz@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ahsonriaz)
+[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:336-457-8675)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ahsonriaz&color=brightgreen&style=for-the-badge)
 
@@ -21,84 +24,159 @@
 
 ## 🚀 About Me
 
-I'm a **Data Engineer** passionate about building scalable data pipelines, real-time analytics systems, and leveraging machine learning to solve complex problems. With expertise in both low-level systems programming and high-level data science, I bridge the gap between infrastructure and insights.
+**Data Engineer** with a proven track record of building production-grade data infrastructure that processes **100GB+ weekly** and delivers measurable business impact. I specialize in AWS-native architectures, real-time streaming, and ML pipeline engineering.
 
-- 🔭 Currently working on **distributed data processing systems**
-- 🌱 Learning **Apache Kafka, Spark, and cloud-native architectures**
-- 💡 Interested in **real-time streaming, MLOps, and data platform engineering**
-- 🎯 Goal: Build production-grade ML systems at scale
-- ⚡ Fun fact: I code in C++ for fun and Python for impact
+```python
+class DataEngineer:
+    def __init__(self):
+        self.name = "Muhammad Ahson Riaz"
+        self.role = "Data Engineer @ Kaizen Financial Reporting"
+        self.education = {
+            "masters": "MS Business Analytics (GPA 3.94/4.0) - UT Dallas",
+            "achievement": "Top 1% | Dean's Impact Scholar | President, Dean's Council",
+            "bachelors": "BS Computer Science - LUMS"
+        }
+        self.current_focus = [
+            "AWS Data Engineering at Scale",
+            "Real-time Financial Data Processing", 
+            "MLOps & Production ML Systems",
+            "Cost-Optimized Data Architectures"
+        ]
+        
+    def highlight_achievements(self):
+        return {
+            "pipeline_optimization": "53% runtime reduction",
+            "cost_savings": "$10K/month in infrastructure costs",
+            "ml_roi": "3% consistent ROI on automated trading",
+            "data_volume": "100GB+ weekly processing",
+            "agile_sprints": "12 successful sprints delivered"
+        }
+```
+
+### 🎯 Quick Facts
+- 🔭 **Current:** Engineering compliance tech data pipelines at **Kaizen Financial**
+- 💼 **Experience:** 3+ years building production data systems across **fintech**, **research**, and **e-commerce**
+- 🎓 **Academic Excellence:** Top 1% MS Graduate from UT Dallas | Dean's Honors
+- 📊 **Impact:** Reduced costs by **$14.6K annually** | Optimized pipelines by **53%** | Built systems processing **1000 transactions/min**
+- ⚡ **Passion:** Building fault-tolerant, cost-efficient data infrastructure that scales
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Professional Experience
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+### 🏢 **Data Engineer** @ Kaizen Financial Reporting
+*March 2025 - Present | Remote, USA*
 
-### Data Engineering & Big Data
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+- 🚀 Scaled AWS data pipelines processing **100GB+ weekly** using S3, Glue, Lambda, Step Functions, and DBT
+- ⚡ **53% pipeline optimization** by converting visual ETL to PySpark + optimized SQL
+- 💰 **$10K monthly cost reduction** through Spark script optimization
+- 🛠️ Built DBT pipeline with Athena data warehouse achieving **50% runtime improvement**
+- 🔄 Delivered **12 Agile sprints** collaborating with 4 cross-functional teams
+- ✅ Integrated CI/CD with unit/integration tests using Git pre-commit hooks
 
-### Cloud & DevOps
+### 🤖 **Data Engineer** @ Vector Technologies (Internship)
+*Aug 2024 - Dec 2024 | New Jersey, USA*
+
+- 📈 Developed **AI-powered trading agent** delivering consistent **3% ROI**
+- 🎯 Built ML pipeline on AWS with **64% trade success rate**
+- ⚙️ Implemented auto-scaling infrastructure handling **1000 transactions/minute**
+- 📊 Created Tableau analytics dashboard for performance monitoring
+
+### 🏛️ **Data Engineer** @ Center for Economic Research
+*Aug 2020 - Jan 2023 | Lahore, Pakistan*
+
+- 🌟 Led data pipeline strategy for **multi-million dollar research** impacting 1M+ health workers
+- 💾 Engineered cost-efficient **data lake** (S3 + Hadoop) saving **$4,600 annually**
+- 🔄 Built ETL pipelines for semi-structured data transformation
+- 📈 Optimized data warehouse schemas for **37% query performance improvement**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+
+### Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### Machine Learning & Data Science
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Tools & Platforms
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Data Engineering
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=black)
+
+### Programming & Scripting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### Databases & Warehousing
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+![Amazon Athena](https://img.shields.io/badge/Amazon%20Athena-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### Analytics & Visualization
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![QuickSight](https://img.shields.io/badge/QuickSight-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### AWS Services Expertise
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Step Functions](https://img.shields.io/badge/Step_Functions-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### DevOps & CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Pre-commit](https://img.shields.io/badge/Pre--commit-FAB040?style=for-the-badge&logo=pre-commit&logoColor=black)
+
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahsonriaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=Ahsonriaz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsonriaz&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahsonriaz&theme=tokyonight&hide_border=true)
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsonriaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
 
 </div>
 
 ---
 
-## 💻 Most Used Languages
+## 🏆 Achievements & Certifications
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsonriaz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Ahsonriaz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
 
 </div>
 
----
+### 🎓 Academic Honors
+- 🥇 **Scholar with High Distinction** - Top 1% | UT Dallas
+- 🎖️ **Dean's Impact Scholar** | President, Dean's Council
+- 📚 **Dean's Honors List** - LUMS
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Ahsonriaz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
+### 💼 Professional Impact
+- 💰 **$10K/month** infrastructure cost reduction
+- ⚡ **53%** pipeline runtime optimization
+- 📈 **37%** query performance improvement
+- 💾 **$4.6K/year** storage cost savings
+- 🎯 **3% ROI** on ML trading systems
 
 ---
 
@@ -111,9 +189,27 @@ I'm a **Data Engineer** passionate about building scalable data pipelines, real-
 
 </div>
 
+### 💡 Key Projects
+
+#### 🤖 **AI-Powered Trading Agent** | Python, AWS, ML, Real-time Processing
+- Built automated trading system with **64% success rate** and **3% consistent ROI**
+- Engineered ML pipeline processing market data at **1000 transactions/minute**
+- Implemented auto-scaling infrastructure on AWS for variable data volumes
+- Created real-time Tableau dashboard for performance monitoring
+
+#### 💳 **Subscription Revenue Analytics Pipeline** | SQL, ETL, Data Modeling, Pandas
+- Designed batch ETL pipeline for e-commerce data warehouse
+- Optimized Redshift SQL queries achieving **32% performance improvement**
+- Implemented data validation workflows ensuring high data quality
+
+#### 🏥 **Healthcare Data Lake** | AWS S3, Hadoop, Python, ETL
+- Architected data lake for **1M+ health workers** research project
+- Reduced storage costs by **$4,600 annually** through partitioning strategies
+- Built ETL pipelines transforming semi-structured data for analytics
+
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
@@ -123,46 +219,79 @@ I'm a **Data Engineer** passionate about building scalable data pipelines, real-
 
 ---
 
-## 💼 What I'm Working On
+## 💼 What I'm Currently Building
 
-```python
-current_focus = {
-    "role": "Data Engineer",
-    "learning": ["Apache Kafka", "Spark Streaming", "AWS Data Services"],
-    "building": [
-        "Real-time data pipelines",
-        "ML model deployment infrastructure",
-        "Distributed data processing systems"
-    ],
-    "interests": ["MLOps", "Data Mesh Architecture", "Stream Processing"],
-    "certifications": ["AWS Solutions Architect (in progress)"]
-}
+```yaml
+current_role: Data Engineer @ Kaizen Financial Reporting
+
+tech_stack:
+  cloud: [AWS S3, Glue, Lambda, Step Functions, Athena]
+  data_engineering: [DBT, PySpark, Airflow, Spark]
+  languages: [Python, SQL, Bash]
+  
+focus_areas:
+  - Real-time financial data processing pipelines
+  - Cost-optimized AWS architectures
+  - ML model deployment infrastructure
+  - Data quality & governance frameworks
+  
+learning:
+  - Advanced Spark optimization techniques
+  - Kubernetes for data workloads
+  - Snowflake data warehousing
+  - Streaming with Apache Kafka & Flink
+
+methodologies:
+  - Agile/Scrum (12+ sprints delivered)
+  - CI/CD best practices
+  - Test-driven development
+  - SDLC for data products
 ```
 
 ---
 
-## 🤝 Let's Connect
+## 📫 Let's Connect!
 
-I'm always interested in collaborating on data engineering projects, contributing to open source, and connecting with fellow engineers. Feel free to reach out!
+I'm always interested in discussing:
+- 🏗️ Data architecture & pipeline design
+- ☁️ AWS & cloud-native solutions
+- 🤖 MLOps & production ML systems
+- 💼 Data engineering career paths
+- 🚀 Open source collaborations
 
 <div align="center">
 
-**📧 Email:** ahson.riaz@outlook.com  
-**💼 LinkedIn:** [Connect with me]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/muhammadahsonriaz/))   
+**📧 Email:** [Ahson.riaz@outlook.com](mailto:Ahson.riaz@outlook.com)  
+**💼 LinkedIn:** [muhammadahsonriaz](https://linkedin.com/in/muhammadahsonriaz)  
+**📱 Phone:** (336) 457-8675  
+**🐙 GitHub:** [Ahsonriaz](https://github.com/Ahsonriaz)
 
 </div>
 
 ---
 
+## 📚 Education
+
+🎓 **Master of Science in Business Analytics** | University of Texas at Dallas  
+*Jan 2023 - Dec 2024 | GPA: 3.94/4.0*  
+🏆 Top 1% Scholar | Dean's Impact Scholar | President, Dean's Council
+
+🎓 **Bachelor of Science in Computer Science** | Lahore University of Management Sciences  
+*Aug 2018 - May 2022*  
+🏆 Dean's Honors List
+
+---
+
 <div align="center">
 
-### Show some ❤️ by starring repositories you find useful!
+### ⭐ Show some love by starring repositories you find useful!
 
 ![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
-**Thanks for visiting!** ⭐  
-*Last updated: 2025*
+**"Building scalable data infrastructure that drives business impact"**
+
+![Last Updated](https://img.shields.io/badge/Last%20Updated-December%202025-blue?style=for-the-badge)
 
 </div>
