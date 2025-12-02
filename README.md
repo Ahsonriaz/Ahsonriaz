@@ -158,14 +158,6 @@ class DataEngineer:
 
 ---
 
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Ahsonriaz&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)
-
-</div>
-
 ### 🎓 Academic Honors
 - 🥇 **Scholar with High Distinction** - Top 1% | UT Dallas
 - 🎖️ **Dean's Impact Scholar** | President, Dean's Council
@@ -206,16 +198,6 @@ class DataEngineer:
 - Architected data lake for **1M+ health workers** research project
 - Reduced storage costs by **$4,600 annually** through partitioning strategies
 - Built ETL pipelines transforming semi-structured data for analytics
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahsonriaz&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
 
 ---
 
